@@ -1,0 +1,53 @@
+@font-face {
+    font-family:"bangla";
+    src: url("bangla.tff") format("truetype");
+
+}
+
+
+body {
+        background-color: #2b0c30
+}
+
+h1 {
+font-family:"bangla"; color: #f6f2ff; background-color:#c3a5ff;
+}
+p {
+font-family:"bangla"; color: #f6f2ff; background-color: #934e88; font-size: 30px;
+}
+
+.floating-box {
+  float: left;
+    width: 300px;
+    height:100px;
+    margin: 10px;
+    background-color:#934e88;
+    font-size:80px;
+    position:relative;
+    left: 520px;
+    font-family:"bangla"; color: #f6f2ff;
+}
+
+.floating-box-two {
+  float: left;
+    width: 300px;
+    height:100px;
+    margin: 10px;
+    background-color:#934e88;
+    font-size:55px;
+    position:relative;
+    left: 700px;
+    font-family:"bangla"; color: #f6f2ff;
+}
+
+.floating-box-three {
+  float: left;
+    width: 105px;
+    height:70px;
+    margin: 10px;
+    background-color:#934e88;
+    font-size:50px;
+    position:relative;
+    left: 100px;
+    font-family:"bangla"; color: #f6f2ff;
+}
